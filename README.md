@@ -1,3 +1,7 @@
+NOTE: apologies po for the confusion with my commit message. Nailagay ko po accidentally ang 'midterm_sourcefile_repo' instead of the required 'midterm_sourcefiles_demo' noong una. Na-correct ko na po siya and there's the final commit with the correct midterm_sourcefiles_demo message and i didn't delete the 'repo' as a proof of practicing and doing it many times, Kasama din po dito ang iba pang requested git commands and structure. Thank you po for understanding!
+
+
+
 Welcome to my midterm repository for *CC104*. This repository contains all the JavaScript programs, lecture examples, laboratory exercises, and hands-on activities developed during the midterm period.
 
 ## 📁 Project Structure
